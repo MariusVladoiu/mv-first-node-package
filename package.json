@@ -1,0 +1,20 @@
+{
+  "name": "mv-first-node-package",
+  "version": "1.0.0",
+  "description": "mv-first-node-package mv-first-node-package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariusVladoiu/mv-first-node-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariusVladoiu/mv-first-node-package/issues"
+  },
+  "homepage": "https://github.com/MariusVladoiu/mv-first-node-package#readme"
+}
